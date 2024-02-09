@@ -1,0 +1,9 @@
+:~  title+'Moonrise'
+    info+'A schematic agent to brighten your night.'
+    color+0x13.294b
+    image+''
+    version+[0 0 1]
+    website+'https://urbit.org/'
+    license+'MIT'
+    site+/apps/moonrise
+==
