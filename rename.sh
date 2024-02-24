@@ -38,8 +38,8 @@ if __name__ == "__main__":
     # Set the starting path to the current directory
     starting_path = os.getcwd()
 
-    for old_name in ["sunrise", "Sunrise"]:
+    for old_name in ["moonrise", "Moonrise"]:
         rename_and_replace(starting_path, old_name, new_name)
 
-    print(f"Replacement complete. All instances of 'clown-car' have been replaced with '{new_name}' in files and folders.")
+    print(f"Replacement complete. All instances of 'moonrise' have been replaced with '{new_name}' in files and folders.")
 
